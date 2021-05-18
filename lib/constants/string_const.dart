@@ -1,0 +1,2 @@
+String myIntroStr =
+    "Mobile Application Developer with experience in multiple settings can design and develop programs using the latest and most appropriate technology.I developed native Android applications and frameworks using Kotlin and Java.Defined and implemented robust app architectures and complex user interfaces.Applied expert knowledge of Android system frameworks to solve novel problems.Collaborated with designers, engineers, and product managers to build great experiences.I have a strong knowledge  such as common design patterns, programming languages.";
